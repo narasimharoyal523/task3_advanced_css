@@ -23,8 +23,6 @@
 
 task3_advanced_css/ ├── views/ │ └── form.ejs ├── public/ │ └── style.css ├── server.js ├── package.json
 
-yaml
-Copy code
 
 ---
 
