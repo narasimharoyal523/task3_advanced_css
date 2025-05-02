@@ -42,21 +42,16 @@ Copy code
 1. Navigate to the project folder:
    ```bash
    cd task3_advanced_css
-Install required packages:
+2. Install required packages:
 
-bash
-Copy code
-npm install
-Run the server:
-
-bash
-Copy code
-node server.js
-Open in browser:
-
-arduino
-Copy code
-http://localhost:3000
+   ```bash
+   npm install
+3. Run the server:
+   ```bash
+   node server.js
+4. Open in browser:
+   ```bash
+   http://localhost:3000
 💡 Usage
 Enter name and email
 
